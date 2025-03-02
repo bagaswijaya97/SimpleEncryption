@@ -1,0 +1,15 @@
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/bin/Debug/net7.0/SimpleEncryption
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/bin/Debug/net7.0/SimpleEncryption.deps.json
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/bin/Debug/net7.0/SimpleEncryption.runtimeconfig.json
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/bin/Debug/net7.0/SimpleEncryption.dll
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/bin/Debug/net7.0/SimpleEncryption.pdb
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/SimpleEncryption.csproj.AssemblyReference.cache
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/SimpleEncryption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/SimpleEncryption.AssemblyInfoInputs.cache
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/SimpleEncryption.AssemblyInfo.cs
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/SimpleEncryption.csproj.CoreCompileInputs.cache
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/SimpleEncryption.dll
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/refint/SimpleEncryption.dll
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/SimpleEncryption.pdb
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/SimpleEncryption.genruntimeconfig.cache
+/Users/Bagas Wijaya/API/Latihan/2025/February/SimpleEncryption/obj/Debug/net7.0/ref/SimpleEncryption.dll
